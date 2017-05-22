@@ -1,2 +1,3 @@
 Testing file github.txt
 still testing
+test 3
